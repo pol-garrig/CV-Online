@@ -1,0 +1,22 @@
+{
+  "items" : [
+    {
+      "tete" : "Juin 2013 & Juin 2014 Juin 2013 & Juin 2014 – Jazz à Juan",
+      "lieu" : "Antibes, France."
+    },
+    {
+      "tete" : "2012 - 2013 –Globe Diffusion.",
+      "detail" : "Street marketing .",
+      "lieu" : "Antibes, France"
+    },
+    {
+      "tete" : "2012 – Cours particuliers d’espagnol",
+      "lieu" : "Aix-en-Provence, France"
+
+    },
+    {
+      "tete" : "2003 – 2011 – Metalúrgica Jofran, Buenos Aires",
+      "detail" : "En charge de la gestion administrative et logistique de l’entreprise familiale (PME dans le domaine de la métallurgie",
+      "lieu" : "Buenos Aires , Argentina"
+    }]
+}

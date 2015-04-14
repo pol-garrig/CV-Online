@@ -1,0 +1,16 @@
+{
+  "name" : "Garrigos Fernando",
+
+  "profession" : "Etudiant-ingénieur en Sciences Informatiques, en recherche de stage/alternance",
+
+  "pdf" : {
+      "lien" : "assets/CV_FGarrigos_2015.pdf",
+      "icon" : "fa fa-file-pdf-o",
+      "texte" : " PDF Version"
+  },
+  "mail" : {
+      "lien" : "mailto:garrigos.fernando@etu.unice.fr?subject=Offer",
+      "icon" : "fa fa-paper-plane",
+      "texte" : " EMAIL "
+  }
+}

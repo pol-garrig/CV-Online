@@ -1,0 +1,35 @@
+{
+  "items" : [
+    {
+      "tete" : "2013 - Aujourd’hui – Ecole d’ingénieurs Polytech’Nice Sophia Antipolis",
+      "lien" : "http://www.polytechnice.fr/",
+      "nom" : "Ecole Polytechnique Universitaire Polytech’Nice-Sophia",
+      "year" : "(2013-Present)",
+      "detail" : "Sciences Informatiques, spécialité Interaction Homme-Machine – 2ème année du cycle d’ingénieur en cours.",
+      "lieu" : "Sophia-Antipolis, France"
+    },
+    {
+      "tete" : "2012 – Institut d’Etudes Françaises pour Etudiants Etrangers (IEFEE)",
+      "lien" : "http://www.univ-amu.fr/",
+      "nom" : "Université Aix-Marseille III ",
+      "lieu" : "Aix-en-Provence, France"
+    },
+    {
+      "tete" : "2006 - 2009 – Ecole d’Ingénieurs de l’Université de Buenos Aires",
+      "lien" : "http://www.fi.uba.ar/",
+      "nom" : "Facultad de Ingeniería de la Universidad de Buenos Aires ",
+      "detail" : "Génie Chimique – 3 premières années du cursus .",
+      "lieu" : "Buenos Aires , Argentina"
+    },
+    {
+      "tete" : "2004 - 2006 – Classe préparatoire pour intégrer l’Ecole d’Ingénieurs ",
+      "lien" : "http://www.cbc.uba.ar/HomePage",
+      "nom" : " Ciclo Básico Común de la Universidad de Buenos Aires",
+      "lieu" : "Buenos Aires , Argentina"
+    },
+    {
+      "tete" : "2003 – Baccalauréat, avec une orientation vers la filière de l’aéronautique",
+      "detail" : " Escuela de Educación Técnica IV, Buenos Aires.",
+      "lieu" : "Buenos Aires , Argentina"
+    }]
+}

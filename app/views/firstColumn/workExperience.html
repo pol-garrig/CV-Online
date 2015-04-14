@@ -1,0 +1,20 @@
+<div class="section-inner" id="Experiences">
+  <h2 class="heading">Experiences professionnelles</h2>
+  <div class="content">
+    <div class="item" ng-repeat="item in workexperience.items">
+
+      <h2 class="title">
+        {{item.tete}}
+      </h2>
+
+        <a href="{{item.lien}}" target="_blank">{{item.nom}}</a>
+        <span class="year">{{item.year}}</span>
+
+        <spans class="fa fa-info">   {{item.detail}}</spans>
+
+
+        <spans class="fa fa-map-marker">   {{item.lieu}}</spans>
+
+    </div>
+  </div><!--//content-->
+</div><!--//section-inner-->

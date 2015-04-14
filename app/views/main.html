@@ -1,0 +1,29 @@
+<!-- Primary Column Start-->
+<div class="primary col-md-8 col-sm-12 col-xs-12">
+
+  <!-- Education -->
+  <aside class="education aside section" ng-include="'views/secondColumn/education.html'" ng-controller="EducationCtrl"></aside>
+  <!-- Work experience -->
+  <section class="experience section" ng-include="'views/firstColumn/workExperience.html'" ng-controller="WorkexperienceCtrl"></section>
+
+
+  <!-- About Me -->
+  <section class="about section" ng-include="'views/firstColumn/aboutMe.html'" ng-controller="AboutmeCtrl"></section>
+
+</div>
+<!-- Primary Column End -->
+
+<!-- Secondary Column Start-->
+<div class="secondary col-md-4 col-sm-12 col-xs-12">
+
+  <!-- Informations -->
+  <aside class="info aside section" ng-include="'views/secondColumn/informations.html'" ng-controller="InformationsCtrl"></aside>
+
+
+  <!-- Languages -->
+  <aside class="languages aside section" ng-include="'views/secondColumn/languages.html'" ng-controller="LanguagesCtrl"></aside>
+
+  <!-- Skills -->
+  <section class="skills section" ng-include="'views/firstColumn/skills.html'" ng-controller="SkillsCtrl"></section>
+</div>
+<!-- Secondary Column End -->
